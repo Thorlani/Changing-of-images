@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 5px 10px;
+}
+
+#heading {
+    height: 30px;
+    width: 200px;
+    border: solid 3px salmon;
+} 
+
+#images {
+    object-fit: contain;
+    height: 600px;
+    width: 800px;
+}
